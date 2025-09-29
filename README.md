@@ -1,5 +1,12 @@
 ## Hi there 👋, I’m Nimanshu — your friendly neighborhood software dev 🕸️👨‍💻
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=ff79c6&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+Learning+🚀)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=25&center=true&vCenter=true&width=600&lines=System+Initializing...;Loading+Nimanshu's+Profile...;Welcome+to+Digital+Space+👨‍💻" />
+</p>
+
+
 <img align="right" alt="ML GIF" height=250 width=400 src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></img>
 ### 🤓 &nbsp; init(): About Me
 
@@ -65,9 +72,28 @@ I'm **[Nimanshu Bhikadiya](https://github.com/Nimanshu0301)**, a passionate **So
     👉 Upgrade in Progress… ⏫ 👈 
   </h4>
 </div>
+
+
 <p align="center">
-  <a href="https://github.com/Nimanshu0301">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Nimanshu0301&show_icons=true&theme=radical&rank_icon=github"/><br>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimanshu0301&theme=radical&hide_border=true&langs_count=10&layout=compact&card_width=250&border_radius=12&custom_title=Top%20Languages"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
