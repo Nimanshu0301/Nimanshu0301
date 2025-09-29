@@ -1,11 +1,11 @@
-## Hi there 👋, I'm Nimanshu Bhikadiya
+## Hi there 👋, I’m Nimanshu — your friendly neighborhood software dev 🕸️👨‍💻
 
 <img align="right" alt="ML GIF" height=250 width=400 src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></img>
-### 😀 &nbsp;About Me
+### 🤓 &nbsp; init(): About Me
 
 I'm **[Nimanshu Bhikadiya](https://github.com/Nimanshu0301)**, a passionate **Software Engineer** who thrives on transforming complex challenges into elegant, high-impact solutions. My focus is on engineering systems that are not just performant and reliable but also cost-effective. I love the process of taking an idea from concept to a polished, final product. I have a knack for working with cross-functional teams to deliver features ahead of schedule, all while maintaining a strong commitment to security and compliance.
 
-### 😎   More About Me
+###   ⚙️  Compiled Info: 😎 Nimanshu Bhikadiya
 
 * 💻 Software Developer | Full-Stack Wizard | Code Whisperer
 * 🎓 Master’s in Computer Science @ University of Texas Arlington| GPA 3.55 — yes, my code *and* grades compile.
@@ -20,7 +20,7 @@ I'm **[Nimanshu Bhikadiya](https://github.com/Nimanshu0301)**, a passionate **So
   [<img align="center" alt="LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://www.linkedin.com/in/nimanshubhikadiya/)    
   [<img align="center" alt="Email" height="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>](mailto:nimanshu312@gmail.com)
 
-  ### What’s in My Dev Toolbox?
+### 🧰💻 What’s in My Dev Toolbox?
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/) 
 [![C Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/) 
@@ -62,7 +62,7 @@ I'm **[Nimanshu Bhikadiya](https://github.com/Nimanshu0301)**, a passionate **So
 
 <div align="center">
   <h4> 
-    👉 Happy Learning 👈 
+    👉 Upgrade in Progress… ⏫ 👈 
   </h4>
 </div>
 <p align="center">
